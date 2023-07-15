@@ -6,7 +6,7 @@ const questions = [
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'How do I change my page password?',
     info: 'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
   },
   {
